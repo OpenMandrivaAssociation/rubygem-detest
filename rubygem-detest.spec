@@ -6,7 +6,7 @@ Release:    %mkrel 1
 Summary:    Assertion testing library for Ruby
 Group:      Development/Ruby
 License:    ISC License
-URL:        http://snk.tuxfamily.org/lib/detest/
+URL:        https://snk.tuxfamily.org/lib/detest/
 Source0:    %{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
