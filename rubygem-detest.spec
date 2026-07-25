@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    3.1.2
-Release:    %mkrel 1
+Release:    2
 Summary:    Assertion testing library for Ruby
 Group:      Development/Ruby
 License:    ISC License
@@ -17,7 +17,8 @@ Provides:   rubygem(%{oname}) = %{version}
 
 %description
 Detest is an assertion testing library for the Ruby programming language. It
-features a simple assertion vocabulary, instant debuggability of failures,
+features a simple assertion vocabulary, instant debuggability
+ of failures,
 and flexibility in composing tests.
 
 
